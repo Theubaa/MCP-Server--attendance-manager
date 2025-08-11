@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "leave-management": {
+      "command": "C:/Users/team/AppData/Local/Programs/Python/Python310/python.exe",
+      "args": ["C:/Users/team/OneDrive/Desktop/MCP/my-first-mcp-server/mcp_server.py"],
+      "cwd": "C:/Users/team/OneDrive/Desktop/MCP/my-first-mcp-server"
+    }
+  }
+}
